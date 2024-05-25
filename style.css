@@ -46,7 +46,8 @@ a:hover {
 }
 
 .links {
-  padding-left: 0;
+  padding: 0%;
+  text-align: center;
 }
 
 #profile-pic {
