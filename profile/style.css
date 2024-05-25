@@ -47,10 +47,10 @@ a:hover {
 }
 
 #profile-pic {
-  width: 350px;
-    height: 350px;
-    border-radius: 50%;
-    box-shadow: 0 0 16px rgba(0,0,0,2);
+  /* width: 350px;
+  height: 350px; */
+  border-radius: 50%;
+  box-shadow: 0 0 16px rgba(0,0,0,2);
 }
 
 .card {
