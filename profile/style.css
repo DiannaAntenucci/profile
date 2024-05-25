@@ -1,12 +1,8 @@
-body {
-    /* font-family: 'Lucida Sans; */
-    /* having and issue with font families */
-    /* background-color: #F1F5A8; */
-    /* background-color: rgb(238,174,202); */
+/* body {
     font-family: "Quicksand", sans-serif;
-      font-optical-sizing: auto;
-      font-weight: weight;
-      font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,224,233,1) 100%);
     color: #6420AA;
     line-height: normal;
@@ -18,8 +14,6 @@ body {
 
 h2, h3 {
   font-family: papyrus;
-  /* background-color: #5E1675;
-  color: #F1F5A8; */
   background-color: #be95c4;
   color: #ffd6ff;
     width: 700px;
@@ -30,8 +24,6 @@ h2, h3 {
 
 h1 {
   font-family: papyrus;
-  /* background-color: #5E1675;
-  color: #F1F5A8; */
   background-color: #be95c4;
   color: #ffd6ff;
     width: 700px;
@@ -47,8 +39,8 @@ a:hover {
 }
 
 #profile-pic {
-  /* width: 350px;
-  height: 350px; */
+  width: 350px;
+  height: 350px;
   border-radius: 50%;
   box-shadow: 0 0 16px rgba(0,0,0,2);
 }
@@ -83,4 +75,4 @@ a:hover {
   .container {
     width: 300px;
   }
-}
+} */
