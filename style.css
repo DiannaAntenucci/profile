@@ -76,7 +76,7 @@ a:hover {
     box-shadow: 0 0 16px rgba(0,0,0,2);
 }
 
-.card {
+/* .card {
   background-color: white;
   padding: 50px;
   width: 700px;
@@ -85,4 +85,33 @@ a:hover {
   border: 1px solid #EAEAEA;
   box-shadow: 0 0 16px rgba(0,0,0,2);
   text-align: center;
+} */
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 50px auto;
+  padding: 50px;
+  width: 700px;
+  background-color: white;
+  border-radius: 20px;
+  border: 1px solid #EAEAEA;
+  padding: 50px;
+  box-shadow: 0 0 16px rgba(0,0,0,2);
+}
+
+.card ul {
+  display: flex;
+  gap: 10px; /* Adjust the spacing between the icons */
+  padding: 0;
+  list-style: none;
+}
+
+.card ul a:hover {
+  text-decoration: none; /* Remove underline from links */
+  color: #edf1bf;
+  transition: 0.3s ease;
 }
