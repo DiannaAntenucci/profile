@@ -45,6 +45,10 @@ a:hover {
   transition: 0.3s ease;
 }
 
+.links {
+  padding-left: 0;
+}
+
 #profile-pic {
   width: 350px;
     height: 350px;
