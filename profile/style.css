@@ -1,0 +1,76 @@
+/* body {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,224,233,1) 100%);
+    color: #6420AA;
+    line-height: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2, h3 {
+  font-family: papyrus;
+  background-color: #be95c4;
+  color: #ffd6ff;
+    width: 700px;
+    text-align: center;
+    line-height: normal;
+    font-size:x-large;
+}
+
+h1 {
+  font-family: papyrus;
+  background-color: #be95c4;
+  color: #ffd6ff;
+    width: 700px;
+    text-align: center;
+    line-height: normal;
+    font-size:xx-large;
+}
+
+a:hover {
+  color: #edf1bf;
+  transition: 0.3s ease;
+  text-align: center;
+}
+
+#profile-pic {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  box-shadow: 0 0 16px rgba(0,0,0,2);
+}
+
+.card {
+  background-color: white;
+  padding: 50px;
+  width: 700px;
+  margin: 50px auto;
+  border-radius: 20px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0,0,0,2);
+  text-align: center;
+}
+
+@media (max-width: 960px) {
+  For a screen < 960px, this CSS will be read */
+  /* .container {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+} */
